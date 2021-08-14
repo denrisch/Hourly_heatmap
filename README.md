@@ -1,1 +1,1 @@
-# hourly_heatmap figures to visualise time series data
+# hourly_heatmaps to visualise time series data
